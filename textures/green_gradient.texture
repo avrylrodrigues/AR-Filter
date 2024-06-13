@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "green_gradient",
+  "identifier": "texture:39392-573bb336-efdd-4490-9516-b0e3c1581a9e",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "29e599d5f00b1a1c1d7dc300ae1754b5",
+  "assetLocator": "textures/green_gradient.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:39612-573bb336-efdd-4490-9516-b0e3c1581a9e",
+    "textureExportConfig:39834-573bb336-efdd-4490-9516-b0e3c1581a9e",
+    "textureExportConfig:40058-573bb336-efdd-4490-9516-b0e3c1581a9e"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 537,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "29e599d5f00b1a1c1d7dc300ae1754b5",
+      "colorCount": 1936,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.747137770451566,
+      "pixelsHigh": 1024,
+      "pixelsWide": 537
+    }
+  ]
+}
